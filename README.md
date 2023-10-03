@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zin Min Aung
 - 👀 I’m interested in Coding and Playing Football
-- 🌱 I’m currently learning .NET and Vue 
+- 🌱 I’m currently learning .NET and Vue JS
 - 📫 You can reach me <code><a>zxinminaung.dev@gamil.com</a></code>
 
 <!---
