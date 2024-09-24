@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zin Min Aung
+- 👋 Hi, I’m <b>Zin Min Aung</b>
 - 👀 I’m interested in Coding and Playing Football
 - 🌱 I’m Full Stack Deveoper with C#, Vue JS and Flutter
 - ✨ Interesting in javascript frameworks and C#
