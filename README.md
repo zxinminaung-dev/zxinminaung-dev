@@ -12,7 +12,7 @@ I'm experienced in designing and developing **custom systems** that blend softwa
 
 - 🎟 **Swimming Pool Entry Management System**
 - 🛂 **Access Control System** (RFID & QR-based gate & elevator access)
-- 🚗 **Car Go Tracking System** (real-time route tracking with weather and geolocation)
+- 🚗 **Car Go Tracking System** (real-time route tracking with gate operator)
 - 🧾 **Visitor Management System** (route-based temporary access)
 - 🚦 **Vehicle Queue Management System** (inner-gate car sorting logic)
 - 🗳 **Voting System** (secure digital elections)
