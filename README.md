@@ -16,7 +16,9 @@ I'm experienced in designing and developing **custom systems** that blend softwa
 - 🧾 **Visitor Management System** (route-based temporary access)
 - 🚦 **Vehicle Queue Management System** (inner-gate car sorting logic)
 - 🗳 **Voting System** (secure digital elections)
-- 📅 **Attendance System** (biometric, RFID, and mobile support)
+- 📅 **Attendance System** (biometric, RFID)
+- 🧾 **Document Management System** (route-based temporary access)
+- **etc..**
 - 🔌 Device Integration:
   - TCP/UDP hardware interfacing
   - SignalR and MQTT for real-time updates
@@ -29,7 +31,7 @@ I'm experienced in designing and developing **custom systems** that blend softwa
 - 🧪 Solving real-world logistics and control problems
 - 💡 Blending **frontend + backend + hardware**
 - 📡 Protocols like **TCP**, **WebSocket**, and **Serial Port**
-- 🗂 Database design (MS SQL Server, PostgreSQL, SQLite)
+- 🗂 Database design (MS SQL Server, MySQL, MongoDB)
 
 ---
 
