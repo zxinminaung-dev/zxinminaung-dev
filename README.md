@@ -10,7 +10,7 @@
 
 I'm experienced in designing and developing **custom systems** that blend software and hardware for real-world automation:
 
-- 🎟 **Swimming Pool Entry Ticket Management System**
+- 🎟 **Swimming Pool Entry Ticket Management System** (RFID & QR based gate access system)
 - 🛂 **Access Control System** (RFID & QR-based gate & elevator access)
 - 🚗 **Car Go Tracking System** (real-time route tracking with gate operator)
 - 🧾 **Visitor Management System** (RFID & QR based gate access system)
