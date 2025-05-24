@@ -13,11 +13,11 @@ I'm experienced in designing and developing **custom systems** that blend softwa
 - 🎟 **Swimming Pool Entry Ticket Management System**
 - 🛂 **Access Control System** (RFID & QR-based gate & elevator access)
 - 🚗 **Car Go Tracking System** (real-time route tracking with gate operator)
-- 🧾 **Visitor Management System** (route-based temporary access)
+- 🧾 **Visitor Management System** (RFID & QR based gate access system)
 - 🚦 **Vehicle Queue Management System** (inner-gate car sorting logic)
 - 🗳 **Voting System** (secure digital elections)
 - 📅 **Attendance System** (biometric, RFID)
-- 🧾 **Document Management System** (route-based temporary access)
+- 🧾 **Document Management System**
 - **etc..**
 - 🔌 Device Integration:
   - TCP/UDP hardware interfacing
